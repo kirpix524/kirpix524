@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🎯 Портфолио программиста  
 
-<!--
-**kirpix524/kirpix524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 Специализация  
+Опытный **Python-разработчик**, специализирующийся на:  
+- **Разработке чат-ботов** (Telegram, WhatsApp, Discord, Slack и др.)  
+- **Создании веб-приложений** (FastAPI, Flask, Django)  
+- **Разработке AI-ассистентов** (LLM, OpenAI API, LangChain)  
+- **Автоматизации бизнес-процессов** (скрипты, API-интеграции, RPA)  
+- **Промпт-инжиниринге** (кастомизация моделей ИИ, оптимизация взаимодействия с LLM)  
 
-Here are some ideas to get you started:
+## 🔹 Что я делаю?  
+✅ Разрабатываю **интерактивных ботов** для общения с клиентами и автоматизации задач  
+✅ Создаю **веб-приложения** с удобными интерфейсами и API  
+✅ Интегрирую **ИИ-ассистентов** в бизнес-процессы  
+✅ Оптимизирую промпты и взаимодействие с LLM для повышения качества ответов  
+✅ Автоматизирую рутинные процессы, сокращая затраты времени и ресурсов  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Технологии  
+- **Python** (FastAPI, Flask, Django)  
+- **LLM & AI** (OpenAI API, LangChain, GPT, RAG)  
+- **Чат-боты** (Aiogram, Telethon, Botpress)  
+- **Базы данных** (PostgreSQL, Redis, MongoDB)
+
+📩 **Готов к сотрудничеству! 🚀**
